@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string name="get_weight">Weight of Gold in Gram (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+
+    <string name="t_student_name">Student Name</string>
+    <string name="t_student_id">Student ID</string>
+    <string name="t_group">Group</string>
+    <string name="t_program_code">Program Code</string>
+    <string name="t_copyright">Copyright Statement Application Website URL: © 2021 Zakat Calculator Mobile App</string>
+
+    <string name="aboutus">About Us</string>
+    <string name="student_name">AMIRAH ZAMZURI - SARAH NURHASYA </string>
+    <string name="student_id">2019290874 - 2019805462</string>
+    <string name="group">5A</string>
+    <string name="program_code">RCS240</string>
+    <string name="copyright">https://github.com/SarahNurhasya/AmirahZamzuri-ZakatCalculator</string>
+
+
+</resources>
